@@ -1,0 +1,13 @@
+{
+  "id" : "https://LlGC-sgt.github.io/SianTest1/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in LlGC-sgt/SianTest1 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://LlGC-sgt.github.io/SianTest1/manifests/SianTestmanifest.json",
+    "label" : "Rules for the government of the Aberystwyth Infirmary and Cardiganshire General Hospital"
+  } ]
+}
